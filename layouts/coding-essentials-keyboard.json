@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Coding Essentials Keyboard",
+    "author": "Yuyang Zhang",
+    "notes": "This keyboard contains all three keys that you need to start coding."
+  },
+  [
+    {
+      "sm": "cherry"
+    },
+    "Ctrl",
+    {
+      "sm": ""
+    },
+    "C",
+    "V"
+  ]
+]
